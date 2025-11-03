@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   
-  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **中文** ](https://github.com/Tokfinity/.github/profile/README_CN.md)
+  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **中文** ](https://github.com/Tokfinity/.github/blob/main/profile/README_CN.md)
 </div>
 
 ### Tokfinity Mission
