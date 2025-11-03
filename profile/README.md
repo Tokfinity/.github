@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   
-  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ]([https://github.com/Tokfinity](https://github.com/Tokfinity/InfCode)) | [ **中文** ](https://github.com/Tokfinity/.github/blob/main/profile/README_CN.md)
+  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity/InfCode) | [ **中文** ](https://github.com/Tokfinity/.github/blob/main/profile/README_CN.md)
 </div>
 
 ### Tokfinity Mission
