@@ -1,8 +1,9 @@
-<h1 align="center">Tokfinity</h2>
-
 <p align="center">
-  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **中文** ](https://github.com/Tokfinity/.github/profile/README_CN.md)
+  <img src="https://github.com/Tokfinity/InfCode/blob/main/figures/Tokfinity.png" width="25%" />
 </p>
+<div align="center">
+  [ **Tokfinity Official Website** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **中文** ](https://github.com/Tokfinity/.github/profile/README_CN.md)
+</div>
 
 ### Tokfinity Mission
 
