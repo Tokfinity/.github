@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   
-  [ **词元无限官网** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **English** ](https://github.com/Tokfinity/.github/blob/main/profile/README.md)
+  [ **词元无限官网** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity/InfCode) | [ **English** ](https://github.com/Tokfinity/.github/blob/main/profile/README.md)
 </div>
 
 ### Tokfinity开放使命
