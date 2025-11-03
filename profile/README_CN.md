@@ -1,8 +1,10 @@
-<h1 align="center">词元无限（Tokfinity）</h2>
-
 <p align="center">
-  [ **词元无限官网** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **English** ](https://github.com/Tokfinity/.github/profile/README.md)
+  <img src="https://github.com/Tokfinity/InfCode/blob/main/figures/Tokfinity.png" width="25%" />
 </p>
+<div align="center">
+  
+  [ **词元无限官网** ](https://www.tokfinity.com/) | [ **GitHub** ](https://github.com/Tokfinity) | [ **English** ](https://github.com/Tokfinity/.github/blob/main/profile/README.md)
+</div>
 
 ### Tokfinity开放使命
 
